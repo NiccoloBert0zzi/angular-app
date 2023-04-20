@@ -14,7 +14,7 @@ export class HomeComponent implements OnInit {
         loop: true,
         margin: 10,
         autoplay: true,
-        autoplayTimeout: 1000,
+        autoplayTimeout: 5000,
         autoplayHoverPause: true,
       });
     });
